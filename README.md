@@ -28,11 +28,10 @@ I’m currently diving into:
   <a href="https://github.com/mra9165" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/mra9165" target="_blank">
+  <a href="https://www.linkedin.com/in/mohit-raj-328103373/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
   </a>
-  <a href="https://stackoverflow.com/users/mra9165" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="stackoverflow" width="40" height="40"/>
+ 
   </a>
 </p>
 
@@ -76,6 +75,4 @@ I’m currently diving into:
 > Enjoy clean, self-explanatory, maintainable code that speaks for itself!
 
 ---
-
-Thanks for stopping by—feel free to 👀 around, ⭐️ repositories, and reach out if you'd like to collaborate!
 
